@@ -9,8 +9,9 @@ Design and implement a guesing game with:
 		name
 
 	main game
-		score
-		chances
+		score - let the player know the 						done
+						random int at the end of the game		done	
+		chances - tell player how many more turns		done
 
 
 
