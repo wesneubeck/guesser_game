@@ -7,6 +7,7 @@ Guesser game
 Design and implement a guesing game with;
 
 players: name
+
 main game: score, chances
 
 
